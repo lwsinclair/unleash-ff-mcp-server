@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ylin6-unleash-ff-mcp-server-badge.png)](https://mseep.ai/app/ylin6-unleash-ff-mcp-server)
+
 # Unleash Feature Flag MCP Server
 
 This repository contains a Model Context Protocol (MCP) server for interacting with Unleash feature flag management system. It allows AI agents to manage feature flags through the Unleash API.
